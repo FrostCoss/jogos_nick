@@ -1,0 +1,1 @@
+"# jogos_nick"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/FrostCoss/jogos_nick.gitgit push -u origin master
